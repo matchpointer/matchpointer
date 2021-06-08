@@ -1,6 +1,6 @@
 - 👋 Hi, I’m matchpointer
-- 👀 I’m interested in python, golang, ML
-- 🌱 I’m currently build tennis model with opportunity of ML for tennis matches prediction
+- 👀 I’m interested in python, golang, C++, machine learning
+- 🌱 I’m currently build tennis model with opportunity of machine learning for tennis live matches prediction
 - 📫 How to reach me: gdubro@gmail.com
 
 <!---
